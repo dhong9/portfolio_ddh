@@ -94,7 +94,7 @@ material-kit-react
 │   │   └── js
 │   └── tutorial-components.html
 ├── public
-│   ├── favicon.ico
+│   ├── favicon_DDH.ico
 │   ├── index.html
 │   └── manifest.json
 └── src
