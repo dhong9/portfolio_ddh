@@ -72,7 +72,7 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-facebook"} />
+                  <i className={classes.socials + " fab fa-youtube"} />
                 </Button>
               </CardFooter>
             </Card>
@@ -144,14 +144,14 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-instagram"} />
+                  <i className={classes.socials + " fab fa-linkedin"} />
                 </Button>
                 <Button
                   justIcon
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-facebook"} />
+                  <i className={classes.socials + " fab fa-youtube"} />
                 </Button>
               </CardFooter>
             </Card>

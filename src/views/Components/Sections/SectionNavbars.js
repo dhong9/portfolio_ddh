@@ -400,7 +400,7 @@ export default function SectionNavbars() {
                         classes.socialIcons +
                         " " +
                         classes.marginRight5 +
-                        " fab fa-facebook"
+                        " fab fa-youtube"
                       }
                     />{" "}
                     Facebook

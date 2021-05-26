@@ -77,10 +77,10 @@ export default function ProfilePage(props) {
                       <i className={"fab fa-artstation"} />
                     </Button>
                     <Button justIcon link className={classes.margin5}>
-                      <i className={"fab fa-instagram"} />
+                      <i className={"fab fa-linkedin"} />
                     </Button>
                     <Button justIcon link className={classes.margin5}>
-                      <i className={"fab fa-facebook"} />
+                      <i className={"fab fa-youtube"} />
                     </Button>
                   </div>
                 </div>

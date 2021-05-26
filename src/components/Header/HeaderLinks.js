@@ -83,18 +83,18 @@ export default function HeaderLinks(props) {
       </ListItem>
       <ListItem className={classes.listItem}>
         <Tooltip
-          id="instagram-facebook"
-          title="Follow us on facebook"
+          id="instagram-youtube"
+          title="Follow me on YouTube"
           placement={window.innerWidth > 959 ? "top" : "left"}
           classes={{ tooltip: classes.tooltip }}
         >
           <Button
             color="transparent"
-            href="https://www.facebook.com/CreativeTim?ref=creativetim"
+            href="https://www.youtube.com/danielhong35"
             target="_blank"
             className={classes.navLink}
           >
-            <i className={classes.socialIcons + " fab fa-facebook"} />
+            <i className={classes.socialIcons + " fab fa-youtube"} />
           </Button>
         </Tooltip>
       </ListItem>

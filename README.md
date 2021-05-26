@@ -251,8 +251,6 @@ We use GitHub Issues as the official bug tracker for the Material Kit. Here are 
 
 ArtStation: <https://www.artstation.com/danielhong35>
 
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
+YouTube: <https://www.youtube.com/danielhong35>
 
 LinkedIn: <https://www.linkedin.com/in/danielhong35/>
