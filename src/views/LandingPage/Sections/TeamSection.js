@@ -65,7 +65,7 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-instagram"} />
+                  <i className={classes.socials + " fab fa-linkedin"} />
                 </Button>
                 <Button
                   justIcon

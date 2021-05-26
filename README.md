@@ -255,4 +255,4 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+LinkedIn: <https://www.linkedin.com/in/danielhong35/>
