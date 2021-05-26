@@ -382,10 +382,10 @@ export default function SectionNavbars() {
                         classes.socialIcons +
                         " " +
                         classes.marginRight5 +
-                        " fab fa-twitter"
+                        " fab fa-artstation"
                       }
                     />{" "}
-                    Twitter
+                    ArtStation
                   </Button>
                 </ListItem>
                 <ListItem className={classes.listItem}>

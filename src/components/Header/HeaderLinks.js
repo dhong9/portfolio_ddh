@@ -66,18 +66,18 @@ export default function HeaderLinks(props) {
           </IconButton>
         </Tooltip>*/}
         <Tooltip
-          id="instagram-twitter"
-          title="Follow us on twitter"
+          id="instagram-artstation"
+          title="Follow me on ArtStation"
           placement={window.innerWidth > 959 ? "top" : "left"}
           classes={{ tooltip: classes.tooltip }}
         >
           <Button
-            href="https://twitter.com/CreativeTim?ref=creativetim"
+            href="https://www.artstation.com/danielhong35"
             target="_blank"
             color="transparent"
             className={classes.navLink}
           >
-            <i className={classes.socialIcons + " fab fa-twitter"} />
+            <i className={classes.socialIcons + " fab fa-artstation"} />
           </Button>
         </Tooltip>
       </ListItem>

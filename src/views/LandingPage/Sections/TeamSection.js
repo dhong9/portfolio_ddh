@@ -58,7 +58,7 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
+                  <i className={classes.socials + " fab fa-artstation"} />
                 </Button>
                 <Button
                   justIcon
@@ -101,7 +101,7 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
+                  <i className={classes.socials + " fab fa-artstation"} />
                 </Button>
                 <Button
                   justIcon
@@ -137,7 +137,7 @@ export default function TeamSection() {
                   color="transparent"
                   className={classes.margin5}
                 >
-                  <i className={classes.socials + " fab fa-twitter"} />
+                  <i className={classes.socials + " fab fa-artstation"} />
                 </Button>
                 <Button
                   justIcon

@@ -244,6 +244,11 @@ const buttonStyle = {
         color: "#333333",
       },
     },
+    "&$artstation": {
+      "&,&:focus,&:hover,&:visited": {
+        color: "#145d79",
+      },
+    },
   },
   transparent: {
     "&,&:focus,&:hover,&:visited": {

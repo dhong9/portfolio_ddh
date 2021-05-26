@@ -249,7 +249,7 @@ We use GitHub Issues as the official bug tracker for the Material Kit. Here are 
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+ArtStation: <https://www.artstation.com/danielhong35>
 
 Facebook: <https://www.facebook.com/CreativeTim>
 

@@ -74,7 +74,7 @@ export default function ProfilePage(props) {
                     <h3 className={classes.title}>Christian Louboutin</h3>
                     <h6>DESIGNER</h6>
                     <Button justIcon link className={classes.margin5}>
-                      <i className={"fab fa-twitter"} />
+                      <i className={"fab fa-artstation"} />
                     </Button>
                     <Button justIcon link className={classes.margin5}>
                       <i className={"fab fa-instagram"} />
