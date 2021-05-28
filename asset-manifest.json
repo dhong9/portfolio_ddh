@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css",
-    "main.js": "/portfolio_ddh/static/js/main.51103dd2.chunk.js",
-    "main.js.map": "/portfolio_ddh/static/js/main.51103dd2.chunk.js.map",
+    "main.js": "/portfolio_ddh/static/js/main.9fe214a9.chunk.js",
+    "main.js.map": "/portfolio_ddh/static/js/main.9fe214a9.chunk.js.map",
     "runtime-main.js": "/portfolio_ddh/static/js/runtime-main.303c323f.js",
     "runtime-main.js.map": "/portfolio_ddh/static/js/runtime-main.303c323f.js.map",
     "static/js/2.da42550e.chunk.js": "/portfolio_ddh/static/js/2.da42550e.chunk.js",
@@ -14,12 +14,12 @@
     "static/media/bg.527ceab2.jpg": "/portfolio_ddh/static/media/bg.527ceab2.jpg",
     "static/media/bg2.adb0a4f1.jpg": "/portfolio_ddh/static/media/bg2.adb0a4f1.jpg",
     "static/media/bg3.6584b707.jpg": "/portfolio_ddh/static/media/bg3.6584b707.jpg",
-    "static/media/bg4.jpg": "/portfolio_ddh/static/media/bg4.88963029.jpg",
     "static/media/bg7.32c7eec6.jpg": "/portfolio_ddh/static/media/bg7.32c7eec6.jpg",
     "static/media/christian.36a49d2f.jpg": "/portfolio_ddh/static/media/christian.36a49d2f.jpg",
     "static/media/clem-onojegaw.8809fc53.jpg": "/portfolio_ddh/static/media/clem-onojegaw.8809fc53.jpg",
     "static/media/clem-onojeghuo.862a0952.jpg": "/portfolio_ddh/static/media/clem-onojeghuo.862a0952.jpg",
     "static/media/cynthia-del-rio.43673965.jpg": "/portfolio_ddh/static/media/cynthia-del-rio.43673965.jpg",
+    "static/media/intro_video.gif": "/portfolio_ddh/static/media/intro_video.0ba5d0c2.gif",
     "static/media/kendall.ab8e0d7e.jpg": "/portfolio_ddh/static/media/kendall.ab8e0d7e.jpg",
     "static/media/landing-bg.jpg": "/portfolio_ddh/static/media/landing-bg.64d7ac30.jpg",
     "static/media/landing.833419cc.jpg": "/portfolio_ddh/static/media/landing.833419cc.jpg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.303c323f.js",
     "static/js/2.da42550e.chunk.js",
     "static/css/main.37b49dc3.chunk.css",
-    "static/js/main.51103dd2.chunk.js"
+    "static/js/main.9fe214a9.chunk.js"
   ]
 }
