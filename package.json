@@ -1,7 +1,7 @@
 {
   "homepage": "http://dhong9.github.io/portfolio_ddh",
   "name": "portfolio_ddh",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Daniel's Hong portfolio website",
   "private": true,
   "main": "src/index.js",
