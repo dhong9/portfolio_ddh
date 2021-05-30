@@ -9,7 +9,6 @@ import Checkbox from "@material-ui/core/Checkbox";
 import Radio from "@material-ui/core/Radio";
 import Switch from "@material-ui/core/Switch";
 // @material-ui/icons
-import Favorite from "@material-ui/icons/Favorite";
 import People from "@material-ui/icons/People";
 import Check from "@material-ui/icons/Check";
 import FiberManualRecord from "@material-ui/icons/FiberManualRecord";
@@ -22,11 +21,11 @@ import CustomLinearProgress from "components/CustomLinearProgress/CustomLinearPr
 import Paginations from "components/Pagination/Pagination.js";
 import Badge from "components/Badge/Badge.js";
 
-import styles from "assets/jss/material-kit-react/views/componentsSections/basicsStyle.js";
+import styles from "assets/jss/material-kit-react/views/componentsSections/typographyStyle.js";
 
 const useStyles = makeStyles(styles);
 
-export default function SectionBasics() {
+export default function SectionArt() {
   const classes = useStyles();
   const [checked, setChecked] = React.useState([24, 22]);
   const [selectedEnabled, setSelectedEnabled] = React.useState("b");
@@ -72,31 +71,27 @@ export default function SectionBasics() {
     <div className={classes.sections}>
       <div className={classes.container}>
         <div className={classes.title}>
-          <h2>Basic Elements</h2>
+          <h2>Digital Art</h2>
         </div>
         <div id="buttons">
           <div className={classes.title}>
             <h3>
-              Buttons
+              Animations
               <br />
-              <small>Pick your style</small>
+              <small>Rainbow Variety</small>
             </h3>
           </div>
-          <GridContainer justify="center">
-            <GridItem xs={12} sm={12} md={8}>
-              <Button color="primary">Default</Button>
-              <Button color="primary" round>
-                round
-              </Button>
-              <Button color="primary" round>
-                <Favorite className={classes.icons} /> with icon
-              </Button>
-              <Button justIcon round color="primary">
-                <Favorite className={classes.icons} />
-              </Button>
-              <Button color="primary" simple>
-                simple
-              </Button>
+          <GridContainer>
+            <GridItem xs={12} sm={12} md={6}>
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/a4yxiwoxT9I"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
             </GridItem>
           </GridContainer>
           <div className={classes.title}>

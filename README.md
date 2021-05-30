@@ -170,7 +170,7 @@ material-kit-react
         ├── Components
         │   ├── Components.js
         │   └── Sections
-        │       ├── SectionBasics.js
+        │       ├── SectionArt.js
         │       ├── SectionCarousel.js
         │       ├── SectionCompletedExamples.js
         │       ├── SectionDownload.js
