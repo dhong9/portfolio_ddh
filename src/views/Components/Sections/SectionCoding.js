@@ -9,6 +9,7 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 
 import image from "assets/img/faces/avatar.jpg";
+import meadow from "assets/img/coding/meadow_solve.gif";
 
 import styles from "assets/jss/material-kit-react/views/componentsSections/typographyStyle.js";
 
@@ -26,11 +27,11 @@ export default function SectionCoding() {
           <br />
           <GridContainer>
             <GridItem xs={12} sm={2}>
-              <h4>Rounded Image</h4>
+              <h4>Picture Shuffle</h4>
               <img
-                src="assets/img/coding/meadow_solve.gif"
-                alt="..."
-                className={classes.imgRounded + " " + classes.imgFluid}
+                src={meadow}
+                alt="Meadow puzzle"
+                className={classes.imgFluid}
               />
             </GridItem>
             <GridItem xs={12} sm={2} className={classes.marginLeft}>
