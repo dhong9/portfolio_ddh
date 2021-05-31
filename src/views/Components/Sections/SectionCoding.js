@@ -8,7 +8,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 
-import image from "assets/img/faces/avatar.jpg";
 import meadow from "assets/img/coding/meadow_solve.gif";
 
 import styles from "assets/jss/material-kit-react/views/componentsSections/typographyStyle.js";
@@ -28,47 +27,13 @@ export default function SectionCoding() {
           <GridContainer>
             <GridItem xs={12} sm={2}>
               <h4>Picture Shuffle</h4>
-              <img
-                src={meadow}
-                alt="Meadow puzzle"
-                className={classes.imgFluid}
-              />
-            </GridItem>
-            <GridItem xs={12} sm={2} className={classes.marginLeft}>
-              <h4>Circle Image</h4>
-              <img
-                src={image}
-                alt="..."
-                className={classes.imgRoundedCircle + " " + classes.imgFluid}
-              />
-            </GridItem>
-            <GridItem xs={12} sm={2} className={classes.marginLeft}>
-              <h4>Rounded Raised</h4>
-              <img
-                src={image}
-                alt="..."
-                className={
-                  classes.imgRaised +
-                  " " +
-                  classes.imgRounded +
-                  " " +
-                  classes.imgFluid
-                }
-              />
-            </GridItem>
-            <GridItem xs={12} sm={2} className={classes.marginLeft}>
-              <h4>Circle Raised</h4>
-              <img
-                src={image}
-                alt="..."
-                className={
-                  classes.imgRaised +
-                  " " +
-                  classes.imgRoundedCircle +
-                  " " +
-                  classes.imgFluid
-                }
-              />
+              <a href="https://PictureShuffle.danielhong.repl.co">
+                <img
+                  src={meadow}
+                  alt="Meadow puzzle"
+                  className={classes.imgFluid}
+                />
+              </a>
             </GridItem>
           </GridContainer>
           <GridContainer />
