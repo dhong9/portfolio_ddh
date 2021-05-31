@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css",
-    "main.js": "/portfolio_ddh/static/js/main.51147e76.chunk.js",
-    "main.js.map": "/portfolio_ddh/static/js/main.51147e76.chunk.js.map",
+    "main.js": "/portfolio_ddh/static/js/main.d4421e82.chunk.js",
+    "main.js.map": "/portfolio_ddh/static/js/main.d4421e82.chunk.js.map",
     "runtime-main.js": "/portfolio_ddh/static/js/runtime-main.303c323f.js",
     "runtime-main.js.map": "/portfolio_ddh/static/js/runtime-main.303c323f.js.map",
     "static/js/2.ba027d03.chunk.js": "/portfolio_ddh/static/js/2.ba027d03.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/landing-bg.jpg": "/portfolio_ddh/static/media/landing-bg.64d7ac30.jpg",
     "static/media/landing.833419cc.jpg": "/portfolio_ddh/static/media/landing.833419cc.jpg",
     "static/media/mariya-georgieva.0817f394.jpg": "/portfolio_ddh/static/media/mariya-georgieva.0817f394.jpg",
+    "static/media/meadow_solve.ecaf8f40.gif": "/portfolio_ddh/static/media/meadow_solve.ecaf8f40.gif",
     "static/media/olu-eletu.429cd6ef.jpg": "/portfolio_ddh/static/media/olu-eletu.429cd6ef.jpg",
     "static/media/profile-bg.jpg": "/portfolio_ddh/static/media/profile-bg.8129069f.jpg",
     "static/media/profile.298cea56.jpg": "/portfolio_ddh/static/media/profile.298cea56.jpg",
@@ -38,6 +39,6 @@
     "static/js/runtime-main.303c323f.js",
     "static/js/2.ba027d03.chunk.js",
     "static/css/main.37b49dc3.chunk.css",
-    "static/js/main.51147e76.chunk.js"
+    "static/js/main.d4421e82.chunk.js"
   ]
 }
