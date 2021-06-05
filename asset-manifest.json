@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css",
-    "main.js": "/portfolio_ddh/static/js/main.d4421e82.chunk.js",
-    "main.js.map": "/portfolio_ddh/static/js/main.d4421e82.chunk.js.map",
+    "main.js": "/portfolio_ddh/static/js/main.b7038fff.chunk.js",
+    "main.js.map": "/portfolio_ddh/static/js/main.b7038fff.chunk.js.map",
     "runtime-main.js": "/portfolio_ddh/static/js/runtime-main.303c323f.js",
     "runtime-main.js.map": "/portfolio_ddh/static/js/runtime-main.303c323f.js.map",
     "static/js/2.ba027d03.chunk.js": "/portfolio_ddh/static/js/2.ba027d03.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/christian.36a49d2f.jpg": "/portfolio_ddh/static/media/christian.36a49d2f.jpg",
     "static/media/clem-onojegaw.8809fc53.jpg": "/portfolio_ddh/static/media/clem-onojegaw.8809fc53.jpg",
     "static/media/clem-onojeghuo.862a0952.jpg": "/portfolio_ddh/static/media/clem-onojeghuo.862a0952.jpg",
+    "static/media/connect4Anim.7f4a5fab.gif": "/portfolio_ddh/static/media/connect4Anim.7f4a5fab.gif",
     "static/media/cynthia-del-rio.43673965.jpg": "/portfolio_ddh/static/media/cynthia-del-rio.43673965.jpg",
     "static/media/intro_video.gif": "/portfolio_ddh/static/media/intro_video.0ba5d0c2.gif",
     "static/media/kendall.ab8e0d7e.jpg": "/portfolio_ddh/static/media/kendall.ab8e0d7e.jpg",
@@ -39,6 +40,6 @@
     "static/js/runtime-main.303c323f.js",
     "static/js/2.ba027d03.chunk.js",
     "static/css/main.37b49dc3.chunk.css",
-    "static/js/main.d4421e82.chunk.js"
+    "static/js/main.b7038fff.chunk.js"
   ]
 }
