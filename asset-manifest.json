@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css",
-    "main.js": "/portfolio_ddh/static/js/main.b7038fff.chunk.js",
-    "main.js.map": "/portfolio_ddh/static/js/main.b7038fff.chunk.js.map",
+    "main.js": "/portfolio_ddh/static/js/main.d3407725.chunk.js",
+    "main.js.map": "/portfolio_ddh/static/js/main.d3407725.chunk.js.map",
     "runtime-main.js": "/portfolio_ddh/static/js/runtime-main.303c323f.js",
     "runtime-main.js.map": "/portfolio_ddh/static/js/runtime-main.303c323f.js.map",
     "static/js/2.ba027d03.chunk.js": "/portfolio_ddh/static/js/2.ba027d03.chunk.js",
@@ -34,12 +34,13 @@
     "static/media/studio-2.6fe3aba0.jpg": "/portfolio_ddh/static/media/studio-2.6fe3aba0.jpg",
     "static/media/studio-3.cb63e16b.jpg": "/portfolio_ddh/static/media/studio-3.cb63e16b.jpg",
     "static/media/studio-4.4c272c46.jpg": "/portfolio_ddh/static/media/studio-4.4c272c46.jpg",
-    "static/media/studio-5.6b052d75.jpg": "/portfolio_ddh/static/media/studio-5.6b052d75.jpg"
+    "static/media/studio-5.6b052d75.jpg": "/portfolio_ddh/static/media/studio-5.6b052d75.jpg",
+    "static/media/sudokuAnim.b151a332.gif": "/portfolio_ddh/static/media/sudokuAnim.b151a332.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.303c323f.js",
     "static/js/2.ba027d03.chunk.js",
     "static/css/main.37b49dc3.chunk.css",
-    "static/js/main.b7038fff.chunk.js"
+    "static/js/main.d3407725.chunk.js"
   ]
 }
