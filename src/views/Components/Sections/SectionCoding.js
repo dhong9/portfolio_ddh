@@ -23,7 +23,7 @@ export default function SectionCoding() {
       <div className={classes.container}>
         <div id="images">
           <div className={classes.title}>
-            <h2>Images</h2>
+            <h2>Coding</h2>
           </div>
           <br />
           <GridContainer>
