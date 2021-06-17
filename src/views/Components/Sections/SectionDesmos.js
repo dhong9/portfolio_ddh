@@ -27,7 +27,7 @@ export default function SectionDesmos() {
           <GridContainer>
             <GridItem xs={12} sm={2}>
               <h4>Four Aces</h4>
-              <a href="#">
+              <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/6724425914366257969501792895835690298905629932787585675968320093947927986177">
                 <img
                   src={fourAces}
                   alt="Four aces"
