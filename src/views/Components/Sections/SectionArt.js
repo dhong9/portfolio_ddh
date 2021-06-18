@@ -21,6 +21,8 @@ import CustomLinearProgress from "components/CustomLinearProgress/CustomLinearPr
 import Paginations from "components/Pagination/Pagination.js";
 import Badge from "components/Badge/Badge.js";
 
+import rainbowLights from "assets/img/animations/lights_rainbow2.png";
+
 import styles from "assets/jss/material-kit-react/views/componentsSections/typographyStyle.js";
 
 const useStyles = makeStyles(styles);
@@ -82,16 +84,14 @@ export default function SectionArt() {
             </h3>
           </div>
           <GridContainer>
-            <GridItem xs={12} sm={12} md={6}>
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/a4yxiwoxT9I"
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
+            <GridItem xs={12} sm={2}>
+              <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74930223628986221449005616552502014337986549104729562120974034270543381790721">
+                <img
+                  src={rainbowLights}
+                  alt="Rainbow lights"
+                  className={classes.imgFluid}
+                />
+              </a>
             </GridItem>
           </GridContainer>
           <div className={classes.title}>
