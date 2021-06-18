@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css",
-    "main.js": "/portfolio_ddh/static/js/main.005e3f79.chunk.js",
-    "main.js.map": "/portfolio_ddh/static/js/main.005e3f79.chunk.js.map",
+    "main.js": "/portfolio_ddh/static/js/main.8cef4781.chunk.js",
+    "main.js.map": "/portfolio_ddh/static/js/main.8cef4781.chunk.js.map",
     "runtime-main.js": "/portfolio_ddh/static/js/runtime-main.303c323f.js",
     "runtime-main.js.map": "/portfolio_ddh/static/js/runtime-main.303c323f.js.map",
-    "static/js/2.588e03e8.chunk.js": "/portfolio_ddh/static/js/2.588e03e8.chunk.js",
-    "static/js/2.588e03e8.chunk.js.map": "/portfolio_ddh/static/js/2.588e03e8.chunk.js.map",
+    "static/js/2.6bc462fa.chunk.js": "/portfolio_ddh/static/js/2.6bc462fa.chunk.js",
+    "static/js/2.6bc462fa.chunk.js.map": "/portfolio_ddh/static/js/2.6bc462fa.chunk.js.map",
     "index.html": "/portfolio_ddh/index.html",
     "static/css/main.37b49dc3.chunk.css.map": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css.map",
-    "static/js/2.588e03e8.chunk.js.LICENSE.txt": "/portfolio_ddh/static/js/2.588e03e8.chunk.js.LICENSE.txt",
+    "static/js/2.6bc462fa.chunk.js.LICENSE.txt": "/portfolio_ddh/static/js/2.6bc462fa.chunk.js.LICENSE.txt",
     "static/media/FourAces.55ad1bae.PNG": "/portfolio_ddh/static/media/FourAces.55ad1bae.PNG",
     "static/media/avatar.37d93aaa.jpg": "/portfolio_ddh/static/media/avatar.37d93aaa.jpg",
     "static/media/bg.527ceab2.jpg": "/portfolio_ddh/static/media/bg.527ceab2.jpg",
@@ -25,6 +25,7 @@
     "static/media/kendall.ab8e0d7e.jpg": "/portfolio_ddh/static/media/kendall.ab8e0d7e.jpg",
     "static/media/landing-bg.jpg": "/portfolio_ddh/static/media/landing-bg.64d7ac30.jpg",
     "static/media/landing.833419cc.jpg": "/portfolio_ddh/static/media/landing.833419cc.jpg",
+    "static/media/lights_rainbow2.f109d2f2.png": "/portfolio_ddh/static/media/lights_rainbow2.f109d2f2.png",
     "static/media/mariya-georgieva.0817f394.jpg": "/portfolio_ddh/static/media/mariya-georgieva.0817f394.jpg",
     "static/media/meadow_solve.ecaf8f40.gif": "/portfolio_ddh/static/media/meadow_solve.ecaf8f40.gif",
     "static/media/olu-eletu.429cd6ef.jpg": "/portfolio_ddh/static/media/olu-eletu.429cd6ef.jpg",
@@ -40,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.303c323f.js",
-    "static/js/2.588e03e8.chunk.js",
+    "static/js/2.6bc462fa.chunk.js",
     "static/css/main.37b49dc3.chunk.css",
-    "static/js/main.005e3f79.chunk.js"
+    "static/js/main.8cef4781.chunk.js"
   ]
 }
