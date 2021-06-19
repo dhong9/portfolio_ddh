@@ -4,9 +4,9 @@ import classNames from "classnames";
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 // @material-ui/icons
-import Camera from "@material-ui/icons/Camera";
 import Palette from "@material-ui/icons/Palette";
-import Favorite from "@material-ui/icons/Favorite";
+import Code from "@material-ui/icons/Code";
+import MultilineChart from "@material-ui/icons/MultilineChart";
 // core components
 import Header from "components/Header/Header.js";
 import Footer from "components/Footer/Footer.js";
@@ -17,7 +17,18 @@ import HeaderLinks from "components/Header/HeaderLinks.js";
 import NavPills from "components/NavPills/NavPills.js";
 import Parallax from "components/Parallax/Parallax.js";
 
-import profile from "assets/img/faces/christian.jpg";
+import profile from "assets/img/faces/daniel_hong.jpg";
+
+// Blender renders
+import rainbowLights from "assets/img/animations/lights_rainbow2.png";
+
+// Coding projects
+import meadow from "assets/img/coding/meadow_solve.gif";
+import connect4 from "assets/img/coding/connect4Anim.gif";
+import sudoku from "assets/img/coding/sudokuAnim.gif";
+
+// Demos art
+import fourAces from "assets/img/desmos/FourAces.PNG";
 
 import studio1 from "assets/img/examples/studio-1.jpg";
 import studio2 from "assets/img/examples/studio-2.jpg";
@@ -26,7 +37,6 @@ import studio4 from "assets/img/examples/studio-4.jpg";
 import studio5 from "assets/img/examples/studio-5.jpg";
 import work1 from "assets/img/examples/olu-eletu.jpg";
 import work2 from "assets/img/examples/clem-onojeghuo.jpg";
-import work3 from "assets/img/examples/cynthia-del-rio.jpg";
 import work4 from "assets/img/examples/mariya-georgieva.jpg";
 import work5 from "assets/img/examples/clem-onojegaw.jpg";
 
@@ -47,7 +57,7 @@ export default function ProfilePage(props) {
     <div>
       <Header
         color="transparent"
-        brand="Material Kit React"
+        brand="Daniel Hong"
         rightLinks={<HeaderLinks />}
         fixed
         changeColorOnScroll={{
@@ -101,16 +111,18 @@ export default function ProfilePage(props) {
                   color="primary"
                   tabs={[
                     {
-                      tabButton: "Studio",
-                      tabIcon: Camera,
+                      tabButton: "Blender Renders",
+                      tabIcon: Palette,
                       tabContent: (
                         <GridContainer justify="center">
                           <GridItem xs={12} sm={12} md={4}>
-                            <img
-                              alt="..."
-                              src={studio1}
-                              className={navImageClasses}
-                            />
+                            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74930223628986221449005616552502014337986549104729562120974034270543381790721">
+                              <img
+                                alt="..."
+                                src={rainbowLights}
+                                className={navImageClasses}
+                              />
+                            </a>
                             <img
                               alt="..."
                               src={studio2}
@@ -133,26 +145,32 @@ export default function ProfilePage(props) {
                       ),
                     },
                     {
-                      tabButton: "Work",
-                      tabIcon: Palette,
+                      tabButton: "Coding",
+                      tabIcon: Code,
                       tabContent: (
                         <GridContainer justify="center">
                           <GridItem xs={12} sm={12} md={4}>
-                            <img
-                              alt="..."
-                              src={work1}
-                              className={navImageClasses}
-                            />
-                            <img
-                              alt="..."
-                              src={work2}
-                              className={navImageClasses}
-                            />
-                            <img
-                              alt="..."
-                              src={work3}
-                              className={navImageClasses}
-                            />
+                            <a href="https://PictureShuffle.danielhong.repl.co">
+                              <img
+                                src={meadow}
+                                alt="Meadow puzzle"
+                                className={navImageClasses}
+                              />
+                            </a>
+                            <a href="https://Connect4.danielhong.repl.co">
+                              <img
+                                src={connect4}
+                                alt="Connect four"
+                                className={navImageClasses}
+                              />
+                            </a>
+                            <a href="https://Sudoku.danielhong.repl.co">
+                              <img
+                                src={sudoku}
+                                alt="Sudoku puzzle"
+                                className={navImageClasses}
+                              />
+                            </a>
                           </GridItem>
                           <GridItem xs={12} sm={12} md={4}>
                             <img
@@ -170,16 +188,18 @@ export default function ProfilePage(props) {
                       ),
                     },
                     {
-                      tabButton: "Favorite",
-                      tabIcon: Favorite,
+                      tabButton: "Graph Art",
+                      tabIcon: MultilineChart,
                       tabContent: (
                         <GridContainer justify="center">
                           <GridItem xs={12} sm={12} md={4}>
-                            <img
-                              alt="..."
-                              src={work4}
-                              className={navImageClasses}
-                            />
+                            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/6724425914366257969501792895835690298905629932787585675968320093947927986177">
+                              <img
+                                src={fourAces}
+                                alt="Four aces"
+                                className={classes.imgFluid}
+                              />
+                            </a>
                             <img
                               alt="..."
                               src={studio3}
