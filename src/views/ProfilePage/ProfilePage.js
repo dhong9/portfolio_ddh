@@ -59,7 +59,7 @@ export default function ProfilePage(props) {
       <Parallax
         small
         filter
-        image={require("assets/img/profile-bg.jpg").default}
+        image={require("assets/img/doughnutPile.png").default}
       />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
@@ -71,8 +71,8 @@ export default function ProfilePage(props) {
                     <img src={profile} alt="..." className={imageClasses} />
                   </div>
                   <div className={classes.name}>
-                    <h3 className={classes.title}>Christian Louboutin</h3>
-                    <h6>DESIGNER</h6>
+                    <h3 className={classes.title}>Daniel Hong</h3>
+                    <h6>Software Engineer</h6>
                     <Button justIcon link className={classes.margin5}>
                       <i className={"fab fa-artstation"} />
                     </Button>
