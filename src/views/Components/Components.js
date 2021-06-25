@@ -15,7 +15,6 @@ import Parallax from "components/Parallax/Parallax.js";
 // sections for this page
 import HeaderLinks from "components/Header/HeaderLinks.js";
 import SectionArt from "./Sections/SectionArt.js";
-import SectionCoding from "./Sections/SectionCoding.js";
 import SectionDesmos from "./Sections/SectionDesmos.js";
 import SectionNavbars from "./Sections/SectionNavbars.js";
 import SectionTabs from "./Sections/SectionTabs.js";
@@ -54,7 +53,6 @@ export default function Components(props) {
 
       <div className={classNames(classes.main, classes.mainRaised)}>
         <SectionArt />
-        <SectionCoding />
         <SectionDesmos />
         <SectionNavbars />
         <SectionTabs />

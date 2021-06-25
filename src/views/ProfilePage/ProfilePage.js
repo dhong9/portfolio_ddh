@@ -26,6 +26,7 @@ import rainbowLights from "assets/img/animations/lights_rainbow2.png";
 import meadow from "assets/img/coding/meadow_solve.gif";
 import connect4 from "assets/img/coding/connect4Anim.gif";
 import sudoku from "assets/img/coding/sudokuAnim.gif";
+import game_2048 from "assets/img/coding/2048_game.gif";
 
 // Demos art
 import fourAces from "assets/img/desmos/FourAces.PNG";
@@ -37,8 +38,6 @@ import studio4 from "assets/img/examples/studio-4.jpg";
 import studio5 from "assets/img/examples/studio-5.jpg";
 import work1 from "assets/img/examples/olu-eletu.jpg";
 import work2 from "assets/img/examples/clem-onojeghuo.jpg";
-import work4 from "assets/img/examples/mariya-georgieva.jpg";
-import work5 from "assets/img/examples/clem-onojegaw.jpg";
 
 import styles from "assets/jss/material-kit-react/views/profilePage.js";
 
@@ -173,16 +172,13 @@ export default function ProfilePage(props) {
                             </a>
                           </GridItem>
                           <GridItem xs={12} sm={12} md={4}>
-                            <img
-                              alt="..."
-                              src={work4}
-                              className={navImageClasses}
-                            />
-                            <img
-                              alt="..."
-                              src={work5}
-                              className={navImageClasses}
-                            />
+                            <a href="https://2048.danielhong.repl.co">
+                              <img
+                                alt="..."
+                                src={game_2048}
+                                className={navImageClasses}
+                              />
+                            </a>
                           </GridItem>
                         </GridContainer>
                       ),
