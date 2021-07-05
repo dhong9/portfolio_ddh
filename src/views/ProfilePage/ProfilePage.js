@@ -30,10 +30,10 @@ import game_2048 from "assets/img/coding/2048_game.gif";
 
 // Demos art
 import fourAces from "assets/img/desmos/FourAces.PNG";
+import castle from "assets/img/desmos/DesmosCastle.PNG";
 
 import studio1 from "assets/img/examples/studio-1.jpg";
 import studio2 from "assets/img/examples/studio-2.jpg";
-import studio3 from "assets/img/examples/studio-3.jpg";
 import studio4 from "assets/img/examples/studio-4.jpg";
 import studio5 from "assets/img/examples/studio-5.jpg";
 import work1 from "assets/img/examples/olu-eletu.jpg";
@@ -189,18 +189,20 @@ export default function ProfilePage(props) {
                       tabContent: (
                         <GridContainer justify="center">
                           <GridItem xs={12} sm={12} md={4}>
-                            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/6724425914366257969501792895835690298905629932787585675968320093947927986177">
+                            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74930223628986221449005616552502014337986549104729562120974034269443870162945">
                               <img
                                 src={fourAces}
                                 alt="Four aces"
-                                className={classes.imgFluid}
+                                className={navImageClasses}
                               />
                             </a>
-                            <img
-                              alt="..."
-                              src={studio3}
-                              className={navImageClasses}
-                            />
+                            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74930223628986221449005616552502014337986549104729562120974034271642893418497">
+                              <img
+                                src={castle}
+                                alt="Castle"
+                                className={navImageClasses}
+                              />
+                            </a>
                           </GridItem>
                           <GridItem xs={12} sm={12} md={4}>
                             <img
