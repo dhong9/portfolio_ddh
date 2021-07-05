@@ -21,6 +21,7 @@ import profile from "assets/img/faces/daniel_hong.jpg";
 
 // Blender renders
 import rainbowLights from "assets/img/animations/lights_rainbow2.png";
+import rainbowNotebook from "assets/img/animations/rainbowNotebook.png";
 
 // Coding projects
 import meadow from "assets/img/coding/meadow_solve.gif";
@@ -33,7 +34,6 @@ import fourAces from "assets/img/desmos/FourAces.PNG";
 import castle from "assets/img/desmos/DesmosCastle.PNG";
 
 import studio1 from "assets/img/examples/studio-1.jpg";
-import studio2 from "assets/img/examples/studio-2.jpg";
 import studio4 from "assets/img/examples/studio-4.jpg";
 import studio5 from "assets/img/examples/studio-5.jpg";
 import work1 from "assets/img/examples/olu-eletu.jpg";
@@ -117,16 +117,18 @@ export default function ProfilePage(props) {
                           <GridItem xs={12} sm={12} md={4}>
                             <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74930223628986221449005616552502014337986549104729562120974034270543381790721">
                               <img
-                                alt="..."
+                                alt="Rainbow Lights"
                                 src={rainbowLights}
                                 className={navImageClasses}
                               />
                             </a>
-                            <img
-                              alt="..."
-                              src={studio2}
-                              className={navImageClasses}
-                            />
+                            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74930223628986221449005616552502014337986549104729562120974034272742405046273">
+                              <img
+                                alt="Rainbow Notebook"
+                                src={rainbowNotebook}
+                                className={navImageClasses}
+                              />
+                            </a>
                           </GridItem>
                           <GridItem xs={12} sm={12} md={4}>
                             <img
