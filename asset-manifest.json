@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css",
-    "main.js": "/portfolio_ddh/static/js/main.28c6fc11.chunk.js",
-    "main.js.map": "/portfolio_ddh/static/js/main.28c6fc11.chunk.js.map",
+    "main.js": "/portfolio_ddh/static/js/main.f4604b83.chunk.js",
+    "main.js.map": "/portfolio_ddh/static/js/main.f4604b83.chunk.js.map",
     "runtime-main.js": "/portfolio_ddh/static/js/runtime-main.303c323f.js",
     "runtime-main.js.map": "/portfolio_ddh/static/js/runtime-main.303c323f.js.map",
     "static/js/2.5c309d65.chunk.js": "/portfolio_ddh/static/js/2.5c309d65.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.37b49dc3.chunk.css.map": "/portfolio_ddh/static/css/main.37b49dc3.chunk.css.map",
     "static/js/2.5c309d65.chunk.js.LICENSE.txt": "/portfolio_ddh/static/js/2.5c309d65.chunk.js.LICENSE.txt",
     "static/media/2048_game.51000813.gif": "/portfolio_ddh/static/media/2048_game.51000813.gif",
+    "static/media/DesmosCastle.737dacff.PNG": "/portfolio_ddh/static/media/DesmosCastle.737dacff.PNG",
     "static/media/FourAces.55ad1bae.PNG": "/portfolio_ddh/static/media/FourAces.55ad1bae.PNG",
     "static/media/clem-onojeghuo.862a0952.jpg": "/portfolio_ddh/static/media/clem-onojeghuo.862a0952.jpg",
     "static/media/connect4Anim.7f4a5fab.gif": "/portfolio_ddh/static/media/connect4Anim.7f4a5fab.gif",
@@ -21,7 +22,6 @@
     "static/media/olu-eletu.429cd6ef.jpg": "/portfolio_ddh/static/media/olu-eletu.429cd6ef.jpg",
     "static/media/studio-1.56c6121d.jpg": "/portfolio_ddh/static/media/studio-1.56c6121d.jpg",
     "static/media/studio-2.6fe3aba0.jpg": "/portfolio_ddh/static/media/studio-2.6fe3aba0.jpg",
-    "static/media/studio-3.cb63e16b.jpg": "/portfolio_ddh/static/media/studio-3.cb63e16b.jpg",
     "static/media/studio-4.4c272c46.jpg": "/portfolio_ddh/static/media/studio-4.4c272c46.jpg",
     "static/media/studio-5.6b052d75.jpg": "/portfolio_ddh/static/media/studio-5.6b052d75.jpg",
     "static/media/sudokuAnim.b151a332.gif": "/portfolio_ddh/static/media/sudokuAnim.b151a332.gif"
@@ -30,6 +30,6 @@
     "static/js/runtime-main.303c323f.js",
     "static/js/2.5c309d65.chunk.js",
     "static/css/main.37b49dc3.chunk.css",
-    "static/js/main.28c6fc11.chunk.js"
+    "static/js/main.f4604b83.chunk.js"
   ]
 }
